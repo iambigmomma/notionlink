@@ -46,7 +46,7 @@ export default function CPage({
             {/* Thank you for not removing this as an attribution 🙏 */}
             <p className='mt-10 dark:text-gray-300'>
               Built using{' '}
-              <PrimaryLink href='https://github.com/theodorusclarence/notiolink'>
+              <PrimaryLink href='https://github.com/iambigmomma/notionlink'>
                 <Accent>Notiolink</Accent>
               </PrimaryLink>
             </p>

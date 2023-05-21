@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Notiolink</h1>
   <p>⚡ Self-hostable branded link shortener built with Next.js & Notion API</p>
-  <p>Made by <a href="https://theodorusclarence.com">Theodorus Clarence</a></p>
+  <p>Made by <a href="https://jefan.tumtics.com">Jeff Fan</a></p>
 </div>
 
 ## Installation Guide
