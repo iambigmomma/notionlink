@@ -5,6 +5,9 @@ module.exports = {
   },
 
   reactStrictMode: true,
+  experimental: {
+    newNextLinkBehavior: false,
+  },
 
   images: {
     domains: ['icons.duckduckgo.com'],
